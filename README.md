@@ -14,3 +14,73 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Okoye Chidiogo
+
+Aspiring **Python Developer** | AI & Data Science Enthusiast | Building real-world projects  
+
+Welcome to my GitHub! I'm currently completing the **100 Days of Code Python Bootcamp**, building automation tools, applications, and AI-focused projects.  
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=ffffff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=000000)
+![PyPDF2](https://img.shields.io/badge/PyPDF2-000000?style=for-the-badge&logo=python&logoColor=white)
+![gTTS](https://img.shields.io/badge/gTTS-FF5733?style=for-the-badge&logo=google&logoColor=ffffff)
+![APIs](https://img.shields.io/badge/APIs-61DAFB?style=for-the-badge&logo=applescript&logoColor=000000)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)
+
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ PDF to Audiobook Converter
+![PDF Icon](https://img.icons8.com/ios-filled/50/000000/pdf.png)
+- Converts text from PDF files into audio (MP3)  
+- Uses **PyPDF2** and **gTTS**  
+- [View Repository](https://github.com/ChidiogoOkoye/PDF-Audiobook-Generator-using-Google-Cloud-TTS)
+
+### 2️⃣ Flight Deals Finder
+![Plane Icon](https://img.icons8.com/ios-filled/50/000000/airplane-take-off.png)
+- Tracks flight prices and sends notifications for cheap deals  
+- Uses APIs for real-time flight data  
+- [View Repository](https://github.com/ChidiogoOkoye/flight_deals_finder)
+
+### 3️⃣ Future Projects
+- Python Automation Scripts (productivity tools)  
+- Typing Speed Test (desktop application)  
+- Data Analysis & Visualization Projects  
+
+---
+
+## 📚 What I’m Learning
+
+- AI & Machine Learning fundamentals  
+- Advanced Python libraries (NumPy, Pandas, Matplotlib)  
+- Web scraping & API integrations  
+- Building portfolio-level real-world projects  
+
+---
+
+## 📌 Future Goals
+
+- Build AI-powered applications  
+- Contribute to open-source Python projects  
+- Land my first role as a Python Developer / Data Analyst  
+
+---
+
+## 📫 Connect with Me
+
+[![Chidiogo Okoye](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/chidiogo-okoye-ab03081a3)  
+[![@ChidiogoOkoye](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChidiogoOkoye)
+
+---
+
+## 📊 GitHub Stats
+
+![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChidiogoOkoye&show_icons=true&theme=radical)
