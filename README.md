@@ -1,3 +1,4 @@
+![Portfolio Banner](https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?fit=crop&w=1200&h=300)
 ## Hi there 👋
 
 <!--
@@ -39,13 +40,13 @@ Welcome to my GitHub! I'm currently completing the **100 Days of Code Python Boo
 ## 🚀 Featured Projects
 
 ### 1️⃣ PDF to Audiobook Converter
-![PDF Icon](https://img.icons8.com/ios-filled/50/000000/pdf.png)
+![PDF Converter Demo](https://media.giphy.com/media/xUPGcAqFJr9B5c9M1q/giphy.gif)
 - Converts text from PDF files into audio (MP3)  
 - Uses **PyPDF2** and **gTTS**  
 - [View Repository](https://github.com/ChidiogoOkoye/PDF-Audiobook-Generator-using-Google-Cloud-TTS)
 
 ### 2️⃣ Flight Deals Finder
-![Plane Icon](https://img.icons8.com/ios-filled/50/000000/airplane-take-off.png)
+![Flight Deals Demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 - Tracks flight prices and sends notifications for cheap deals  
 - Uses APIs for real-time flight data  
 - [View Repository](https://github.com/ChidiogoOkoye/flight_deals_finder)
