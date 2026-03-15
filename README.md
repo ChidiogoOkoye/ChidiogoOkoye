@@ -1,4 +1,4 @@
-![Portfolio Banner](https://unsplash.com/photos/macbook-pro-on-brown-wooden-table-SyYmXSDnJ54)
+![Portfolio Banner](https://unsplash.com/photos/macbook-pro-on-brown-wooden-table-SyYmXSDnJ54?fit=crop&w=1200&h=300)
 ## Hi there 👋
 
 <!--
