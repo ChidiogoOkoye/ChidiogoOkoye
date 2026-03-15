@@ -1,4 +1,4 @@
-![Portfolio Banner](https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?fit=crop&w=1200&h=300)
+![Portfolio Banner]([https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?fit=crop&w=1200&h=300](https://unsplash.com/photos/macbook-pro-on-brown-wooden-table-SyYmXSDnJ54))
 ## Hi there 👋
 
 <!--
@@ -40,13 +40,13 @@ Welcome to my GitHub! I'm currently completing the **100 Days of Code Python Boo
 ## 🚀 Featured Projects
 
 ### 1️⃣ PDF to Audiobook Converter
-![PDF Converter Demo](https://media.giphy.com/media/xUPGcAqFJr9B5c9M1q/giphy.gif)
+![PDF Converter Demo]([https://media.giphy.com/media/xUPGcAqFJr9B5c9M1q/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVvZjYxanJhMzgwOG5rNm01b250emR6Ym45ZWN3ZHV4aWgwZ2gxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fUEexRo3LkHLrRyvSc/giphy.gif))
 - Converts text from PDF files into audio (MP3)  
 - Uses **PyPDF2** and **gTTS**  
 - [View Repository](https://github.com/ChidiogoOkoye/PDF-Audiobook-Generator-using-Google-Cloud-TTS)
 
 ### 2️⃣ Flight Deals Finder
-![Flight Deals Demo](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Flight Deals Demo]([https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Zkd2pucWhucjhtMDA0NWMzYWgyaThxbWZqZmRtdm0xNjQ4OHhyZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hWWxmTyeRy64JFFBn5/giphy.gif))
 - Tracks flight prices and sends notifications for cheap deals  
 - Uses APIs for real-time flight data  
 - [View Repository](https://github.com/ChidiogoOkoye/flight_deals_finder)
