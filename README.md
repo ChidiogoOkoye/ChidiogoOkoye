@@ -45,11 +45,11 @@ Welcome to my GitHub! I'm currently completing the **100 Days of Code Python Boo
 - Uses **PyPDF2** and **gTTS**  
 - [View Repository](https://github.com/ChidiogoOkoye/PDF-Audiobook-Generator-using-Google-Cloud-TTS)
 
-### 2️⃣ Flight Deals Finder
+### 2️⃣ Flight Scout
 ![Flight Deals Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Zkd2pucWhucjhtMDA0NWMzYWgyaThxbWZqZmRtdm0xNjQ4OHhyZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hWWxmTyeRy64JFFBn5/giphy.gif))
 - Tracks flight prices and sends notifications for cheap deals  
 - Uses APIs for real-time flight data  
-- [View Repository](https://github.com/ChidiogoOkoye/flight_deals_finder)
+- [View Repository](https://github.com/ChidiogoOkoye/flight-scout)
 
 ### 3️⃣ Future Projects
 - Python Automation Scripts (productivity tools)  
