@@ -80,10 +80,10 @@ Welcome to my GitHub! I'm currently completing the **100 Days of Code Python Boo
 
 [![Chidiogo Okoye](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/chidiogo-okoye-ab03081a3)  
 [![@ChidiogoOkoye](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChidiogoOkoye)
+[![Chidiogo Okoye](https://img.shields.io/badge/PORTFOLIO-83941F?style=for-the-badge&logo=linkedin&logoColor=white)](https://chidiogo-okoye-dev.onrender.com/)  
 
 ---
 
 ## 📊 GitHub Stats
 
 ![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChidiogoOkoye&show_icons=true&theme=radical)
-- Portfolio: [My Portfolio](https://chidiogo-okoye-dev.onrender.com/)
